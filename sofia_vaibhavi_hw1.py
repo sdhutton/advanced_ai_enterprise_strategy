@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 print("Libraries imported successfully")
 
 # Config
-BASE = '/Users/sofiahutton/Documents/Fall 2025 CMU Classes/AI'
+BASE = '/Users/....'
 FILES = [
     '2017-2018 NBA Play-By-Play Data.csv',
     '2018-2019 NBA Play-By-Play Data.csv',
